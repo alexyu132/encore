@@ -3,6 +3,7 @@ A mini CoreXY 3D printer with a 3D printed frame.
 
 ![printer header imaeg](images/1.png)
 
+Overview video: https://www.youtube.com/watch?v=9xukniyO6fI
 
 | Specs |  |
 | --- | --- |
