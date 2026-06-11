@@ -24,4 +24,4 @@ For this design I focused on keeping things compact yet modular. Each major asse
 # BOM and assembly
 View the list of printed and non-printed parts [here](documentation/BOM.md).
 
-Assembly guide still WIP.
+Assembly guide is available [here](documentation/build%20guide/build%20guide.md). Note: still WIP
