@@ -10,6 +10,8 @@ WIP: This is a very early version. Please flag any discrepancies via Github Issu
 
 ### 2. [Gantry: Print head and belts](gantry2.md)
 
-### 2. Enclosure and Z axis
+### 3. [Z axis](z-axis.md)
 
-### 3. Final assembly and wiring
+### 4. Enclosure
+
+### 5. Final assembly/wiring
