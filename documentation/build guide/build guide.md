@@ -1,7 +1,5 @@
 # Encore build guide
 
-WIP: This is a very early version. Please flag any discrepancies via Github Issues.
-
 ## Contents
 
 ### 0. [(Pre-build) BOM](../BOM.md)
@@ -12,6 +10,6 @@ WIP: This is a very early version. Please flag any discrepancies via Github Issu
 
 ### 3. [Z axis](z-axis.md)
 
-### 4. Enclosure
+### 4. [Enclosure](enclosure.md)
 
 ### 5. Final assembly/wiring

@@ -116,5 +116,7 @@ Install the Z coupler onto the Z motor shaft:
 Slide the bed assembly onto the Z rods:
 ![alt text](image-64.png)
 
-Insert the T8 leadscrew from the top, and clamp it into the 5mm to 8mm coupler. Final assembly:
+Insert the T8 leadscrew from the top, and clamp it into the 5mm to 8mm coupler. 
+
+Final assembly:
 ![alt text](image-65.png)
